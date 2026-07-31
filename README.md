@@ -7,11 +7,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -42,4 +44,13 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
