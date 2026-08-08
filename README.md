@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0002-add-two-numbers) |
+| [0415-add-strings](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0415-add-strings](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
