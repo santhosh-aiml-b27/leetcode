@@ -33,6 +33,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0415-add-strings](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0415-add-strings) |
+| [3407-substring-matching-pattern](https://github.com/santhosh-aiml-b27/leetcode/tree/master/3407-substring-matching-pattern) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0415-add-strings) |
+## String Matching
+|  |
+| ------- |
+| [3407-substring-matching-pattern](https://github.com/santhosh-aiml-b27/leetcode/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
