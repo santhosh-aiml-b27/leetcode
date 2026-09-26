@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0415-add-strings) |
