@@ -15,6 +15,7 @@
 | [0001-two-sum](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0415-add-strings) |
 | [3407-substring-matching-pattern](https://github.com/santhosh-aiml-b27/leetcode/tree/master/3407-substring-matching-pattern) |
 ## Sliding Window
@@ -53,6 +55,7 @@
 | [0015-3sum](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/santhosh-aiml-b27/leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
